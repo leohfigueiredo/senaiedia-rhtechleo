@@ -1,0 +1,15 @@
+sistemas transacionais
+sistemas gerenciadores de bancos de dados
+Dados informacionais
+Data warehouse
+BI
+Data mining
+Data centric
+Big data 
+Data lake
+Data lake house
+data mash ***
+Data Science
+Tomada de decisão baseada em dados
+IA
+MER - modelo de entidade relacional
