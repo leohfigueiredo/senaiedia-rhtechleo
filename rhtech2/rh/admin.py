@@ -5,3 +5,5 @@ from .models import *
 admin.site.register(Departamento)
 admin.site.register(Colaborador)
 
+
+
